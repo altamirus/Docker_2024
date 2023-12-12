@@ -4,6 +4,6 @@ Organiza o estudo de Docker
 
 # docker build -t app .
 
-# docler run -it app sh
+# docker run -it app sh
 
-# docler run -dp 3000:3000 app
+# docker run -dp 3000:3000 app
